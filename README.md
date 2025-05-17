@@ -22,7 +22,7 @@ Im April 2025 wurde mein Canyon-Mountainbike aus dem Fahrradkeller gestohlen. Ic
 Dieses Projekt nutzt das Modell **YOLOv8** von [Ultralytics](https://github.com/ultralytics/ultralytics) zur Objekterkennung.  
 Die Modell-Datei `yolov8n.pt` ist aus **lizenzrechtlichen Gründen** nicht im Repository enthalten.
 
-Bitte lade Sie das Modell oder eine aktuellere Version manuell von der offiziellen Ultralytics-Seite herunter und platziere es im Projektordner.
+Bitte laden Sie das Modell oder eine aktuellere Version manuell von der offiziellen Ultralytics-Seite herunter und platzieren sie im Projektordner.
 
 ## Voraussetzungen
 
