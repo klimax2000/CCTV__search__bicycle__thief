@@ -1,0 +1,9 @@
+# Feature Ideen:
+# - Teste die maximale Wiedergabegeschwindigkeit des CCTV-Feeds mit maximalem Video-Speedup,
+#   berechne das theoretische Limit basierend auf der FPS des Handys.
+# - Implementiere das Skript auf einem Raspberry Pi und verbinde ggf. ein einfaches Arduino-Display
+#   für Textausgabe mit Zeitstempel.
+# - Implementiere einen Bewegungsdetektor und fokussiere nur auf bewegte Objekte.
+# - Implementiere ein Live-Chart, das ansteigt, wenn die Aktivität (Detektionen pro Zeiteinheit) zunimmt.
+# - Mache einen USB-Feed statt WLAN möglich.
+# Quick_Test Input Feed Source: https://www.skylinewebcams.com/en/webcam/deutschland/brandenburg/kyritz/kyritz-brandenburg.html
